@@ -1,0 +1,1 @@
+Manifest-Version: 1.0 Main-Class: UI.Main.MainUITest Class-Path: . lib/ojdbc14.jar libs/javax.mail.jar libs/sqlite-jdbc-3.8.7.jar Created-By: ZiMengLan

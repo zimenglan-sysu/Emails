@@ -1,0 +1,108 @@
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+********************************************** 
+**********************************************
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+Stat to created all dirs for email client! 
+Stat to created all dirs for email client!
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+final dbPath: E:\githubs\Emails\res\sqlite3\ 
+final dbPath: E:\githubs\Emails\res\sqlite3\
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+创建目录  E:\githubs\Emails\res\sqlite3\ 失败，目标目录已经存在 
+创建目录  E:\githubs\Emails\res\sqlite3\ 失败，目标目录已经存在
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+创建目录  E:\githubs\Emails\res\sqlite3\email.db 失败，目标目录已经存在 
+创建目录  E:\githubs\Emails\res\sqlite3\email.db 失败，目标目录已经存在
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+DBfileDir: E:\githubs\Emails\res\sqlite3\email.db 
+DBfileDir: E:\githubs\Emails\res\sqlite3\email.db
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+创建目录  E:\githubs\Emails\res\sqlite3\images\ 失败，目标目录已经存在 
+创建目录  E:\githubs\Emails\res\sqlite3\images\ 失败，目标目录已经存在
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+ImagesDir: E:\githubs\Emails\res\sqlite3\images\ 
+ImagesDir: E:\githubs\Emails\res\sqlite3\images\
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+创建目录  E:\githubs\Emails\res\sqlite3\files\ 失败，目标目录已经存在 
+创建目录  E:\githubs\Emails\res\sqlite3\files\ 失败，目标目录已经存在
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+FilesDir: E:\githubs\Emails\res\sqlite3\files\ 
+FilesDir: E:\githubs\Emails\res\sqlite3\files\
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+创建目录  E:\githubs\Emails\res\sqlite3\pdfs\ 失败，目标目录已经存在 
+创建目录  E:\githubs\Emails\res\sqlite3\pdfs\ 失败，目标目录已经存在
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+PdfsDir: E:\githubs\Emails\res\sqlite3\pdfs\ 
+PdfsDir: E:\githubs\Emails\res\sqlite3\pdfs\
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+创建目录  E:\githubs\Emails\res\sqlite3\htmls\ 失败，目标目录已经存在 
+创建目录  E:\githubs\Emails\res\sqlite3\htmls\ 失败，目标目录已经存在
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+HtmlsDir: E:\githubs\Emails\res\sqlite3\htmls\ 
+HtmlsDir: E:\githubs\Emails\res\sqlite3\htmls\
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+创建目录  E:\githubs\Emails\res\sqlite3\others\ 失败，目标目录已经存在 
+创建目录  E:\githubs\Emails\res\sqlite3\others\ 失败，目标目录已经存在
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+OthersDir: E:\githubs\Emails\res\sqlite3\others\ 
+OthersDir: E:\githubs\Emails\res\sqlite3\others\
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+********************************************** 
+**********************************************
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+final iconPath: E:\githubs\Emails\res\icons\ 
+final iconPath: E:\githubs\Emails\res\icons\
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+创建目录  E:\githubs\Emails\res\icons\ 失败，目标目录已经存在 
+创建目录  E:\githubs\Emails\res\icons\ 失败，目标目录已经存在
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+iconsDir: E:\githubs\Emails\res\icons\ 
+iconsDir: E:\githubs\Emails\res\icons\
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+logsDir: E:\githubs\Emails\res\logs\ 
+logsDir: E:\githubs\Emails\res\logs\
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+final propsPath: E:\githubs\Emails\res\props\ 
+final propsPath: E:\githubs\Emails\res\props\
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+创建目录  E:\githubs\Emails\res\props\ 失败，目标目录已经存在 
+创建目录  E:\githubs\Emails\res\props\ 失败，目标目录已经存在
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+propsDir E:\githubs\Emails\res\props\ 
+propsDir E:\githubs\Emails\res\props\
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+final downloadPath: E:\githubs\Emails\res\downloads\ 
+final downloadPath: E:\githubs\Emails\res\downloads\
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+创建目录  E:\githubs\Emails\res\downloads\ 失败，目标目录已经存在 
+创建目录  E:\githubs\Emails\res\downloads\ 失败，目标目录已经存在
+27 Dec 2014 12:57:47 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+dowloadsDir E:\githubs\Emails\res\downloads\ 
+dowloadsDir E:\githubs\Emails\res\downloads\

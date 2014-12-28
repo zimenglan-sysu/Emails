@@ -1,0 +1,12 @@
+27 Dec 2014 12:25:58 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+transport.getURLName(): smtp://sysu512%40126.com@smtp.126.com 
+transport.getURLName(): smtp://sysu512%40126.com@smtp.126.com
+27 Dec 2014 12:26:01 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+final iconPath: E:\githubs\Emails\res\icons\ 
+final iconPath: E:\githubs\Emails\res\icons\
+27 Dec 2014 12:26:01 GMT Util.Email.Logging.EmailLogger INFO
+Util.Email.Logging.EmailLogger info: 
+创建目录  E:\githubs\Emails\res\icons\ 失败，目标目录已经存在 
+创建目录  E:\githubs\Emails\res\icons\ 失败，目标目录已经存在
